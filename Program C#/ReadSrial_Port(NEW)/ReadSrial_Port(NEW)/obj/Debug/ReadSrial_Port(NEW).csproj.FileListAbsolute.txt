@@ -1,0 +1,46 @@
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).exe
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).pdb
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csprojAssemblyReference.cache
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Form1.resources
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Properties.Resources.resources
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.GenerateResource.cache
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.CoreCompileInputs.cache
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).exe
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).pdb
+F:\Projecs\FingerPrint\C#\program\Serial\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).exe.config
+F:\Projecs\FingerPrint\C#\program\Serial\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).exe
+F:\Projecs\FingerPrint\C#\program\Serial\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).pdb
+F:\Projecs\FingerPrint\C#\program\Serial\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.AssemblyReference.cache
+F:\Projecs\FingerPrint\C#\program\Serial\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.SuggestedBindingRedirects.cache
+F:\Projecs\FingerPrint\C#\program\Serial\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Form1.resources
+F:\Projecs\FingerPrint\C#\program\Serial\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Properties.Resources.resources
+F:\Projecs\FingerPrint\C#\program\Serial\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.GenerateResource.cache
+F:\Projecs\FingerPrint\C#\program\Serial\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.CoreCompileInputs.cache
+F:\Projecs\FingerPrint\C#\program\Serial\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).exe
+F:\Projecs\FingerPrint\C#\program\Serial\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).pdb
+E:\Important files\SMART HOSPITALS\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).exe.config
+E:\Important files\SMART HOSPITALS\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).exe
+E:\Important files\SMART HOSPITALS\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).pdb
+E:\Important files\SMART HOSPITALS\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.AssemblyReference.cache
+E:\Important files\SMART HOSPITALS\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.SuggestedBindingRedirects.cache
+E:\Important files\SMART HOSPITALS\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Form1.resources
+E:\Important files\SMART HOSPITALS\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Properties.Resources.resources
+E:\Important files\SMART HOSPITALS\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.GenerateResource.cache
+E:\Important files\SMART HOSPITALS\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.CoreCompileInputs.cache
+E:\Important files\SMART HOSPITALS\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).exe
+E:\Important files\SMART HOSPITALS\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).pdb
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).exe.config
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).exe
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).pdb
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.AssemblyReference.cache
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.SuggestedBindingRedirects.cache
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Form1.resources
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Properties.Resources.resources
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.GenerateResource.cache
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.CoreCompileInputs.cache
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).exe
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).pdb
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).exe.manifest
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).application
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).exe.manifest
+F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).application
