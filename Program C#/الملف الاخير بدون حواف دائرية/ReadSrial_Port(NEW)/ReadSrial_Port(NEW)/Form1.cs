@@ -14,7 +14,7 @@ using System.IO.Ports;
 
 namespace ReadSrial_Port_NEW_
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Form   
     {
 
         SqlConnection conn = new SqlConnection(@"Server=DESKTOP-2V1AEKV\SQLEXPRESS; Database=DB-S; Integrated Security=True");
@@ -109,10 +109,9 @@ namespace ReadSrial_Port_NEW_
 
         private void ADD_BTN_Click(object sender, EventArgs e)
         {
-            //insert command string
             cmd = new SqlCommand("INSERT INTO TBL Values (@NAME, @NOTES, @PHONE_NUMBER, @AGE, @BLOOD_TYPE, @PICTURE, @COUNTRY_ID, @FING_ID)", conn);
 
-            //inizializing varibales
+
             SqlParameter[] param = new SqlParameter[8];
 
             MemoryStream ms = new MemoryStream();

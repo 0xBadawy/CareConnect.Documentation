@@ -40,3 +40,13 @@ F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port
 F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.CoreCompileInputs.cache
 F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).exe
 F:\Projecs\FingerPrint\C#\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).pdb
+D:\Arduino\Smart Midical System\Program C#\الملف الاخير بدون حواف دائرية\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).exe.config
+D:\Arduino\Smart Midical System\Program C#\الملف الاخير بدون حواف دائرية\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).exe
+D:\Arduino\Smart Midical System\Program C#\الملف الاخير بدون حواف دائرية\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).pdb
+D:\Arduino\Smart Midical System\Program C#\الملف الاخير بدون حواف دائرية\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.AssemblyReference.cache
+D:\Arduino\Smart Midical System\Program C#\الملف الاخير بدون حواف دائرية\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Form1.resources
+D:\Arduino\Smart Midical System\Program C#\الملف الاخير بدون حواف دائرية\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Properties.Resources.resources
+D:\Arduino\Smart Midical System\Program C#\الملف الاخير بدون حواف دائرية\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.GenerateResource.cache
+D:\Arduino\Smart Midical System\Program C#\الملف الاخير بدون حواف دائرية\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.CoreCompileInputs.cache
+D:\Arduino\Smart Midical System\Program C#\الملف الاخير بدون حواف دائرية\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).exe
+D:\Arduino\Smart Midical System\Program C#\الملف الاخير بدون حواف دائرية\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).pdb
